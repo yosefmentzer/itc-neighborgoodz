@@ -20,8 +20,8 @@ Dataset link
 https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset
 
 Files:
--- `inference.py`: inference program.
--- `client.py`: test client code.
--- `Groceries_dataset.csv`: input dataset.
--- `items.csv`: ids of grocery items.
+-- `inference.py`: inference program.  
+-- `client.py`: test client code.  
+-- `Groceries_dataset.csv`: input dataset.  
+-- `items.csv`: ids of grocery items.  
 -- `zipcodes.csv`: location (ZIP codes) of users.
