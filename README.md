@@ -19,9 +19,9 @@ The `ids` of neighbors whose baskets are most similar to the user's basket are r
 Dataset link
 https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset
 
-Files:
--- `inference.py`: inference program.  
--- `client.py`: test client code.  
--- `Groceries_dataset.csv`: input dataset.  
--- `items.csv`: ids of grocery items.  
--- `zipcodes.csv`: location (ZIP codes) of users.
+Files:  
+- `inference.py`: inference program.  
+- `client.py`: test client code.  
+- `Groceries_dataset.csv`: input dataset.  
+- `items.csv`: ids of grocery items.  
+- `zipcodes.csv`: location (ZIP codes) of users.
